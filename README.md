@@ -14,8 +14,12 @@
 ###
 <p align="left">QA Manual and Automation Engineer</p>
 <p align="left">✨ Hunting for  bugs since 2020<br>🎯 Goals: To learn something new everyday</p>
+<p align="right">
+ <img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/1df3de02-17b3-4027-9d95-c22ccaaacc06"width="120">
+ 
 
-###
+</p>
+
 
 <h2 align="left">I work with</h2>
 
