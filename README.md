@@ -58,4 +58,4 @@
 </div>
 
 ###
-![Codewars](https://github.r2v.ch/codewars?user=TatsianaL&name=true&theme=gradient_light&cache_control=86400=true&stroke=%23b362ff)
+![Codewars](https://github.r2v.ch/codewars?user=TatsianaL&name=true&theme=gradient_light&stroke=%23b362ff)
