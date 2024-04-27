@@ -63,3 +63,5 @@
 
 ###
 ![Codewars](https://github.r2v.ch/codewars?user=TatsianaL&name=true&theme=gradient_light&stroke=%23b362ff)
+
+![picmix com_478473](https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/70d889c7-b30b-4466-81bc-9e8499515945)
