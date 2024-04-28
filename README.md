@@ -3,7 +3,17 @@
 
 <h1 align="center"></h1>
 
-![Simple Work LinkedIn Banner](https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/09edbb47-50a8-4172-8a4f-8284fc1a1586)
+
+
+![Simple Work LinkedIn Banner (1)](https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/4ed8422d-d89a-4991-9233-86ba8faf1818)
+
+
+
+
+
+
+
+
 
 
 
@@ -15,8 +25,16 @@
 <p align="left">QA Manual and Automation Engineer</p>
 <p align="left">✨ Hunting for  bugs since 2020<br>🎯 Goals: To learn something new everyday</p>
 <p align="right">
- <img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/1df3de02-17b3-4027-9d95-c22ccaaacc06"width="120">
  
+
+<img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/7972a9aa-a902-48d3-92aa-a9f910e359e5"/>
+
+
+
+
+
+
+
 
 </p>
 
@@ -64,4 +82,5 @@
 ###
 ![Codewars](https://github.r2v.ch/codewars?user=TatsianaL&name=true&theme=gradient_light&stroke=%23b362ff)
 
-![picmix com_478473](https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/70d889c7-b30b-4466-81bc-9e8499515945)
+![picmix com_478473](https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/f31d1fdf-d27a-404f-98fa-a0d54370af42)
+
