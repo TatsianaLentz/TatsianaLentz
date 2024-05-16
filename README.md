@@ -23,7 +23,7 @@
 
 ###
 <p align="left">QA Manual and Automation Engineer</p>
-<p align="left">✨ Hunting for  bugs since 2020<br>🎯 Goals: To learn something new everyday</p>
+<p align="left">✨ Hunting for  bugs since 2017<br>🎯 Goals: To learn something new everyday</p>
 <p align="right">
  
 
