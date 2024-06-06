@@ -22,7 +22,29 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">QA Manual and Automation Engineer</p>
+<p align="left">
+
+🎉 QA Manual and Automation Engineer with 5+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop and Mobile Applications. End-to-End testing, REST API testing.
+<ul>
+
+ - Working experience with Python, JavaScript, SQL, MySQL, XPath, HTML5.
+
+- Expertise in  creating Automation scripts for Selenium WebDriver Python Unit Test framework, Selenium IDE, BrowserStack cloud, Postman, Swagger, Lighthouse, GT Metrix, Git, GitHub.
+
+- Expertise in UnitTesting, Back-end Testing, Black/Gray/White-Box Testing, Performance, UAT, Functional Testing, Positive/Negative, Regression, GUI, UX/UI testing, Alpha/Beta testing.
+
+
+- Experience in creating all QA Documentation from scratch Test Strategy, Test Plans and Test Cases, Test Coverage Matrix.
+
+- Strong knowledge of Software Development Life Cycle, Agile/SCRUM and Waterfall.
+
+- Coordinated Testing Activities with other team members and provided status updates in daily Scrum meeting.
+
+- Experienced with bug tracking tool Jira.
+
+- Good knowledge on Cross browser testing applications in different types of browsers such as Chrome, Firefox, Safari, Edge.
+
+- Continuous learner,responsible, detail oriented and a great team player. </p></ul>
 <p align="left">✨ Hunting for  bugs since 2017<br>🎯 Goals: To learn something new everyday</p>
 <p align="right">
  
