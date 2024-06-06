@@ -33,14 +33,9 @@
 
 🖍️- Expertise in UnitTesting, Back-end Testing, Black/Gray/White-Box Testing, Performance, UAT, Functional Testing, Positive/Negative, Regression, GUI, UX/UI testing, Alpha/Beta testing.
 
-
 🖍️- Experience in creating all QA Documentation from scratch Test Strategy, Test Plans and Test Cases, Test Coverage Matrix.
 
 🖍️- Strong knowledge of Software Development Life Cycle, Agile/SCRUM and Waterfall.
-
-🖍️- Coordinated Testing Activities with other team members and provided status updates in daily Scrum meeting.
-
-🖍️- Experienced with bug tracking tool Jira.
 
 🖍️- Good knowledge on Cross browser testing applications in different types of browsers such as Chrome, Firefox, Safari, Edge.
 
