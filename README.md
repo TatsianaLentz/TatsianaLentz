@@ -81,6 +81,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/9971936e-bd07-44f1-84ea-5252cd8ef519 width="10" height="40" alt="Edge logo" />
+  <img width="12" />
+  <img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/adfbb3b6-0cb3-4104-a58c-f006b8f535bc width="10" height="50" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://github.com/TatsianaLentz/TatsianaLentz/assets/167602491/ed594186-f2ed-4e2c-9e54-acd4813b9f0b width="10" height="50" alt="Google Sheets logo" />
+
+
+
+
+
+  
+
 
 
   
